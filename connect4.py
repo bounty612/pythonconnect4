@@ -4,8 +4,6 @@ import numpy as np
 Also I followed during my code in place journey learnings on: codecademy.com (The introduction to python3), some Programming Hub courses
 Harvard CS50 and the beginning of Harvard CS50 AI.Which is why I use sometimes some coding schedules which were not teached in code in place courses.
 I had several original ideas for my project but unfortunately I have not yet enough skills to design them, at this time.
-Unlike many Tic-tac-Toe games made during past years, I wanted to do something more tricky
-and a bit more ambitious with this Connect4 game.
 """
 # Dimensions of the grid, it is a common 7x6, connect4 grid
 columns = 7
